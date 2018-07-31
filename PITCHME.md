@@ -1,15 +1,31 @@
-# Desenvolvimento de Sistemas Web
+### Desenvolvimento de Sistemas Web
 
 00 - Apresentação da Disciplina
 
 ---
 
-### Flux Design
+### Apresentação
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Minhas áreas de Interesse
+- Jogos Sérios (Educacionais)
+- Gamificação
+- Informática na Educação
+- Desenvolvimento Web
+- Usabilidade
+- Inteligência Artificial (Deep Learning)
 
 ---
+
+### Apresentação
+- Profa. Me. Alana de A. Oliveira M. Teixeira
+- Graduação em Ciência da Computação pela UFMA
+- Mestrado em Ciência  da Computação pela UFMA
+- MBA em Gerenciamento de Projeto pelo ISAN/FGV
+- Profa. do Curso de Engenharia da Computação da UFMA desde 2016
+- Currículo: http://lattes.cnpq.br/6253527692814293
+- Site Institucional: www.ecp.ufma.br/alana
+- E-mail: alana@ecp.ufma.br
+---
+
 
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
