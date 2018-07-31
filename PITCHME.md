@@ -28,7 +28,7 @@
 - Site Institucional: www.ecp.ufma.br/alana
 - E-mail: alana@ecp.ufma.br
 ---
-
+### Estrutura de um documento HTML
 ```
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
