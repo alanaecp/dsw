@@ -2,11 +2,13 @@
 
 00 - Apresentação da Disciplina
 
+![alt text](http://www.ecp.ufma.br/wp-content/uploads/2017/01/cropped-banner_site2.png "Engenharia da Computação")
+
 ---
 
 ### Apresentação
 
-Minhas áreas de Interesse
+#### Minhas áreas de Interesse
 - Jogos Sérios (Educacionais)
 - Gamificação
 - Informática na Educação
@@ -17,7 +19,7 @@ Minhas áreas de Interesse
 ---
 
 ### Apresentação
-- Profa. Me. Alana de A. Oliveira M. Teixeira
+#### Profa. Me. Alana de A. Oliveira M. Teixeira
 - Graduação em Ciência da Computação pela UFMA
 - Mestrado em Ciência  da Computação pela UFMA
 - MBA em Gerenciamento de Projeto pelo ISAN/FGV
