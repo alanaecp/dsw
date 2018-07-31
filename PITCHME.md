@@ -68,5 +68,5 @@ print('Menor Número é : %d' % menor)
 print('A Posição do Maior Número é : %d' % numeros.index(maior))
 print('A Posição do Menor Número é : %d' % numeros.index(menor))
 ```
-
+---
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
