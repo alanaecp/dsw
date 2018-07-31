@@ -43,4 +43,30 @@
 ```
 ---
 
+```
+
+for n in numeros:
+	if (n < menor):
+		menor = n
+	elif (n > maior):
+		maior = n
+
+	if (n > 0):
+		positivos +=1
+	else:
+		negativos +=1
+
+	if (int(n) % 2 == 0):
+		pares +=1
+	else:
+		impares +=1
+
+print('Quantidade de números PARES: %d ' %pares)
+print('Quantidade de números IMPARES: %d ' %impares)
+print('Maior Número é : %d' % maior)
+print('Menor Número é : %d' % menor)
+print('A Posição do Maior Número é : %d' % numeros.index(maior))
+print('A Posição do Menor Número é : %d' % numeros.index(menor))
+```
+
 ![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
