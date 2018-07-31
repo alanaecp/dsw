@@ -1,6 +1,6 @@
-# Flux
+# Desenvolvimento de Sistemas Web
 
-An application architecture for React
+00 - Apresentação da Disciplina
 
 ---
 
